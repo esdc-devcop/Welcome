@@ -19,6 +19,9 @@ There are few projects and guides to help teams start developing on GitHub or ot
 
 These are some recommendations for different aspects of development that will help define how you build software.
 
+* [Continuous Improvement of Software Delivery](Recommendations/ContinuosImprovementOfSoftwareDelivery.md)
+* [Git Based Collaborative Development Environment](Recommendations/GitBasedCollaborativeDevelopmentEnvironment.md)
+* [Git Based Version Control](Recommendations/GitForVersionControl.md)
 * [DevOps SDLC](Recommendations/DevOps_SDLC.md)
 * [GCcode Recommendation](Recommendations/GCcode.md)
 

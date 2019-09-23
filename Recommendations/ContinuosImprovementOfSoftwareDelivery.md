@@ -1,8 +1,5 @@
 # Recommended Practices for the Continuous Improvement of Software Delivery in ESDC
 
-Published: _This document is currently a draft_  
-Updated: September 19, 2019 (by: [@gocGrabinski](https://github.com/gocGrabinski), [@jeanbenoitrochon](https://github.com/jeanbenoitrochon))
-
 ## Purpose of this living document.
 
 The purpose of this document is to identify and recommended practices and behaviors that all software development teams can adopt to improve software delivery performance in ESDC. This document is intended to be a living document that is continuously revised as development teams adopt and experiment with these recommendations.
@@ -25,6 +22,7 @@ The initial objective is to put in place behaviors and practice that will enable
 The ulitmate goal is to achieve a culture of continuous improvement in software devlivery within ESDC which would enable the department to achieve and surpass these initial objectives.
 
 ---
+
 ## Recommended Practices and Behaviours
 
 * [Use Git Based Version Control](RecommendationGitForVersionControl.md)

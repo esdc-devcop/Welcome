@@ -16,7 +16,7 @@ A collaborative development environment (CDE) is an online space where a softwar
 * Git based CDE's Pull/merge request functionality can be used to [implement Pull Request Code Review](#) practices.
 * CDE's can be used to [implement automated builds and tests on code check-in/commits](#) that enable faster feedback for developers allowing them to address issues sooner in the development process.
 * For security and auditing purposes CDE User Access Management features enable greater control and traceability of changes to software source code. *TODO: add links or refrences to any audit/release control points that are addressed*
-* Versioned documentation that is directly integrated with the code itself ensures all history of changes to the documenational is also tracked enabling rollbacks to have accurate documentation
+* Versioned documentation that is directly integrated with the code itself ensures all history of changes to the documentation is also tracked enabling rollbacks to have accurate documentation
 
 ## Related Recommendations
 
